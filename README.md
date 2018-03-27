@@ -1,2 +1,2 @@
 # Machine-Learning-Navegation-System
-Sistema de navegación terrestre utilizando una red neuronal con input visual y auditivo
+Este proyecto apunta a la creación de una inteligencia artificial guiada por una red neuronal donde los parámetros de entrada serán guiías visuales y auditivas. Este será aplicado a un videojuego que aplique esta IA en los enemigos
